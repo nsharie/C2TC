@@ -9,6 +9,6 @@ public class CodeFour {
 
         Integer n = 20;
         int b = n;
-        System.out.println(n);
+        System.out.println(b);
     }    
 }
