@@ -1,0 +1,252 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "First_program",
+            "request": "launch",
+            "mainClass": "day1.First_program",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayIndexOutOfBox",
+            "request": "launch",
+            "mainClass": "day10.ArrayIndexOutOfBox",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionHandling",
+            "request": "launch",
+            "mainClass": "day10.ExceptionHandling",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "MultipleExceptionDemo",
+            "request": "launch",
+            "mainClass": "day10.MultipleExceptionDemo",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "Launch",
+            "request": "launch",
+            "mainClass": "day12.Launch",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "NewOne",
+            "request": "launch",
+            "mainClass": "day12.NewOne",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "RevereseDigit",
+            "request": "launch",
+            "mainClass": "day12.RevereseDigit",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigit",
+            "request": "launch",
+            "mainClass": "day12.SumOfDigit",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "BrekDemo",
+            "request": "launch",
+            "mainClass": "day2.BrekDemo",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "Decision_making",
+            "request": "launch",
+            "mainClass": "day2.Decision_making",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "Do_while",
+            "request": "launch",
+            "mainClass": "day2.Do_while",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "For_loop",
+            "request": "launch",
+            "mainClass": "day2.For_loop",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "PrimitiveData_types",
+            "request": "launch",
+            "mainClass": "day2.PrimitiveData_types",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "date",
+            "request": "launch",
+            "mainClass": "day2.date",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "ContinueDemo",
+            "request": "launch",
+            "mainClass": "day3.ContinueDemo",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "ForEachLoop",
+            "request": "launch",
+            "mainClass": "day3.ForEachLoop",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "IfElse",
+            "request": "launch",
+            "mainClass": "day3.IfElse",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "NestedForLoop",
+            "request": "launch",
+            "mainClass": "day3.NestedForLoop",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "NestedIfElse",
+            "request": "launch",
+            "mainClass": "day3.NestedIfElse",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "Switch_demo",
+            "request": "launch",
+            "mainClass": "day3.Switch_demo",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "ConstructorDemo",
+            "request": "launch",
+            "mainClass": "day4.ConstructorDemo",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "OOPS",
+            "request": "launch",
+            "mainClass": "day4.OOPS",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "abstarct",
+            "request": "launch",
+            "mainClass": "day4.abstarct",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "pre_increment",
+            "request": "launch",
+            "mainClass": "day4.pre_increment",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "Executor",
+            "request": "launch",
+            "mainClass": "day5.Executor",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "CodeFour",
+            "request": "launch",
+            "mainClass": "day6.CodeFour",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "MultiLevelInheritanceDemo",
+            "request": "launch",
+            "mainClass": "day6.MultiLevelInheritanceDemo",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "PaymentApplication",
+            "request": "launch",
+            "mainClass": "day6.PaymentApplication",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "SLinheritanceDemo",
+            "request": "launch",
+            "mainClass": "day6.SLinheritanceDemo",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "abstract1",
+            "request": "launch",
+            "mainClass": "day6.abstract1",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDemo",
+            "request": "launch",
+            "mainClass": "day8.ArrayDemo",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "Multidimensional",
+            "request": "launch",
+            "mainClass": "day8.Multidimensional",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "StringArray",
+            "request": "launch",
+            "mainClass": "day8.StringArray",
+            "projectName": "C2TC_72d65cf7"
+        },
+        {
+            "type": "java",
+            "name": "VariableDemo",
+            "request": "launch",
+            "mainClass": "day9.VariableDemo",
+            "projectName": "C2TC_72d65cf7"
+        }
+    ]
+}
